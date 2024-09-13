@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "XyltNbJaP2dmYYeTQFeYku9kKK08Xeo72ceMCScJg6rzW46kAm6l/4XCzDe/hd7fLUfPAClC7t81bNjiyqaqsw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\roey9\\source\\repos\\SimulatorFlights\\SimulatorFlights\\SimulatorFlights.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\roey9\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\roey9\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\roey9\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\roey9\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\roey9\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\roey9\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\roey9\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
